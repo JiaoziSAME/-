@@ -1,0 +1,23 @@
+.console{
+    width: 500px;
+    height: 100px;
+    display: flex;
+}
+.console>button{
+   flex: 1;
+}
+.listof{
+    width: 100%;
+}
+.listof>ul{
+    width: 100%;
+}
+.listof>ul>li{
+    width: 50%;
+    border-bottom:0.01rem solid red ;
+}
+.listof>ul>li>span{
+    
+    padding: 0.5rem;
+    text-align: center;
+}

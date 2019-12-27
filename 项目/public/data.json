@@ -1,0 +1,39 @@
+{
+    "data":[
+     {
+        "id": 12,
+        "productname": "聂帅",
+        "price": 1212,
+        "status": 1,
+        "address": "北京"
+    },
+    {
+        "id": 13,
+        "productname": "锤子",
+        "price": 1314,
+        "status": 2,
+        "address": "河北"
+    },
+    {
+        "id": 14,
+        "productname": "捶捶",
+        "price": 521,
+        "status": 1,
+        "address": "河南"
+    },
+    {
+        "id": 15,
+        "productname": "聂捶捶",
+        "price": 762,
+        "status": 1,
+        "address": "荷兰"
+    },
+    {
+        "id": 16,
+        "productname": "锤",
+        "price": 6868,
+        "status": 2,
+        "address": "兰州"
+    }]
+   
+}

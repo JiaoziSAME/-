@@ -1,0 +1,61 @@
+
+body,html{
+    width: 100%;
+    height: 100%;
+}
+#root{
+
+    width: 100%;
+    height: 100%;
+}
+
+.App{
+    width: 100%;
+    height: 100%; 
+}
+.box{
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    .According{
+        font-size:22.5px ;
+        padding-top: 116px;
+        // position: absolute;
+        padding-left: 20px;
+        color: #333333;
+        font-weight: Bold;
+    }
+}
+.empty{
+    width: 100%;
+    height: 40px;
+}
+.btn{
+    width: 90%;
+    text-align: center;
+    padding:13px ;
+    margin: 0 auto;
+    
+    // padding-top: 101px;
+    
+    border-radius:22.5px ;
+    color: #FEFEFF;
+    background: #B3B3B3;
+    font-size: 16px;
+}
+
+
+.btns{
+    width: 90%;
+    text-align: center;
+    padding:13px ;
+    margin: 0 auto;
+    
+    // padding-top: 101px;
+    
+    border-radius:22.5px ;
+    color: #FEFEFF;
+    
+    font-size: 16px;
+    background:linear-gradient(-90deg,rgba(234,86,86,1),rgba(240,140,80,1));
+}

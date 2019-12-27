@@ -1,0 +1,102 @@
+.food{
+    width: 100%;
+    header:100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+body,html{
+   width: 100%;
+   header:100%; 
+}
+headers{
+    width: 100%;
+    position: absolute;
+}
+section{
+    flex: 1;
+}
+.headss{
+    width: 100%;
+    display: flex;
+    /* background-image: url(../../../public/4.jpg); */
+}
+.headss>span{
+    width: 100%;
+    text-align: center;
+    padding: 0.1rem 0;
+}
+.headss>span:first-child{
+    width: 25%;
+    line-height: 0.53rem;
+}
+.headss>span:last-child{
+    width: 25%;
+    line-height: 0.53rem;
+}
+.headss>span>input{
+    width: 100%;
+    line-height: 0.5rem;
+    outline: none;
+    border: none;
+    border-radius:0.3rem ;
+    background: #fff;
+}
+.shops{
+    width: 100%;
+}
+.shops>dl{
+    width: 25%;
+    text-align: center;
+    float: left;
+     margin: 0;
+}
+.zl{
+    width: 100%;
+    display: flex;
+    border-bottom: 0.01rem solid #6666;
+     margin: 0;
+}
+.zl>span{
+    flex: 1;
+    text-align: center;
+    padding: 0.15rem 0;
+     margin: 0;
+}
+.shopin{
+    width: 100%;
+     margin: 0;
+}
+.shopin>dl{
+      width: 100%;
+    margin: 0;
+    display: flex;
+    padding: 0.2rem;
+    border-bottom: 0.01rem solid #666;
+}
+.shopin>dl>dt{
+    margin: 0;
+    width: 30%;
+}
+.shopin>dl>dt>img{
+    width: 100%;
+    height: auto;
+}
+.shopin>dl>dd{
+    margin: 0;
+    flex: 1;
+    padding:0 0.1rem;
+}
+.shopin>dl>dd>p{
+    margin: 0;  
+    line-height: 0.4rem;
+}
+.shopin>dl>dd>p:first-child{
+    font-size: 0.28rem;
+    font-weight: 550;
+}
+.logo{
+    width: 100%;
+    height: auto;
+}
